@@ -1,0 +1,14 @@
+1. RowNumber : corresponds to the record (row) number and has no effect on the output.
+2. CustomerId : contains random values of customerId
+3. Surname : the surname of a customer has 
+4. CreditScore : customer with a higher credit score is less likely to leave the bank.
+5. Geography : a customer’s location
+6. Gender : Customer's gender
+7. Age : Customer's age
+8. Tenure : refers to the number of years that the customer has been a client of the bank. 
+9. Balance : Customer's account balance
+10. NumOfProducts : refers to the number of products that a customer has purchased through the bank.
+11. HasCrCard : denotes whether or not a customer has a credit card. 
+12. IsActiveMember : Status whether customer active or not. 1 = active, 0 = not active
+13. EstimatedSalary :  Customer's Salary
+14. Exited : whether or not the customer left the bank.
